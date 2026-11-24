@@ -1,1 +1,1 @@
-content about the project 
+content about the projects 
